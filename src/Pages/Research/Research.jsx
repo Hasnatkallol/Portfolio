@@ -4,7 +4,7 @@ const Research = () => {
   return (
     <div className="pb-10 w-9/12 mx-auto">
       <div className="max-w-6xl mx-auto text-center mb-10">
-        <h2 className="text-[28px] sm:text-[28px] lg:text-[28px] font-semibold text-[#263040] relative inline-block group">
+        <h2 className="text-[28px] sm:text-[28px] lg:text-[28px] font-normal text-[#263040] relative inline-block group">
           Research and Publication
           <span className="absolute left-0 -bottom-1 h-[2px] bg-[#263040] w-0 transition-all duration-500 group-hover:w-full"></span>
         </h2>
