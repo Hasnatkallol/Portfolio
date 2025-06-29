@@ -1,6 +1,7 @@
 import React from "react";
 import { FaCopy } from "react-icons/fa";
 import { toast } from "react-toastify";
+import SocialButton from "./SocialButton";
 
 const Hero = () => {
   const email = "hasnatkallol1971@gmail.com";
@@ -18,7 +19,7 @@ const Hero = () => {
         {/* Navbar section */}
         <div className="absolute top-3 lg:top-5 left-1/2 -translate-x-1/2 w-[95%] md:w-5/6 lg:w-4/5 flex justify-between items-center px-2 md:px-0 py-3 lg:py-2">
           <h1 className="text-lg ml-3 sm:text-xl font-bold text-[#263040]">
-            Hasnat
+            HASNAT
           </h1>
           <a
             href="https://drive.google.com/file/d/1ZXdZEB7o4HA-yDJ53zzbWafLq_Dju4qf/view?usp=sharing"
@@ -59,6 +60,9 @@ const Hero = () => {
           </button>
         </div>
       </div>
+      <button className="fixed right-4 top-1/2 transform -translate-y-1/2  text-white px-4 py-2   z-50">
+        <SocialButton></SocialButton>
+      </button>
     </div>
   );
 };
