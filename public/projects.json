@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "JobTrack",
+    "image": "https://i.ibb.co/1G5vnqvk/jobtrack.png",
+    "description": "A job application tracking tool that helps users organize and monitor their job search progress.",
+    "technologies": ["React", "Tailwind CSS", "DaisyUI", "Framer Motion", "Firebase", "React Router"],
+    "live": "https://shiny-bonbon-c3fd9c.netlify.app/",
+    "github": "https://github.com/Hasnatkallol/Dream-Job",
+    "challenges": "Handling user authentication and managing real-time updates across different job statuses.",
+    "improvements": "Add analytics dashboard, drag-and-drop job stages, and dark mode toggle."
+  },
+  {
+    "id": 2,
+    "title": "Roommate Finder Website",
+    "image": "https://i.ibb.co/LDkXMB3C/roommate.png",
+    "description": "A platform where users can find compatible roommates based on shared preferences and location.",
+    "technologies": [
+      "React.js (with React Router, Axios, Context API)",
+      "Node.js & Express.js",
+      "MongoDB & Mongoose",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Framer Motion",
+      "Netlify (Frontend Hosting)"
+    ],
+    "live": "https://poetic-hamster-cbe061.netlify.app/",
+    "github": "https://github.com/Hasnatkallol/Roommate-client",
+    "challenges": "Designing an efficient user search and filtering algorithm based on preferences.",
+    "improvements": "Integrate a chat system and add profile verification features."
+  },
+  {
+    "id": 3,
+    "title": "Restaurant Management Website",
+    "image": "https://i.ibb.co/yn99dp3t/restroflow.png",
+    "description": "A comprehensive management system for restaurants to handle orders, reservations, and menus.",
+    "technologies": [
+      "React.js (with React Router, Axios, Context API)",
+      "Node.js & Express.js",
+      "MongoDB & Mongoose",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Framer Motion",
+      "Netlify (Frontend Hosting)"
+    ],
+    "live": "https://thunderous-quokka-068a68.netlify.app/",
+    "github": "https://github.com/Hasnatkallol/Restaurant-Management-Client",
+    "challenges": "Managing role-based dashboards and maintaining responsiveness across all devices.",
+    "improvements": "Add inventory tracking, generate monthly reports, and support multi-language UI."
+  }
+]
