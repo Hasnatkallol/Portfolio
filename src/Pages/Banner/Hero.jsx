@@ -75,7 +75,7 @@ const Hero = () => {
       </div>
 
       {/* Floating Social Button */}
-      <button className="fixed right-4 top-1/2 transform -translate-y-1/2 text-white px-4 py-2 z-50">
+      <button className="fixed right-4 lg:right-8 top-1/2 transform -translate-y-1/2 text-white px-4 py-2 z-50">
         <SocialButton />
       </button>
     </div>
