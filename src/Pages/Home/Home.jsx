@@ -27,11 +27,12 @@ const Home = () => {
       <div id="myProject">
         <MyProject></MyProject>
       </div>
-      <div id="contact">
-       <Contact></Contact>
-      </div>
+
       <Education></Education>
       <Research></Research>
+      <div id="contact">
+        <Contact></Contact>
+      </div>
       <Footer></Footer>
     </div>
   );
