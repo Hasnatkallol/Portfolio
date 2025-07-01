@@ -10,7 +10,7 @@ const MyProject = () => {
   }, []);
 
   return (
-    <div id="myProject" className="bg-white rounded-2xl">
+    <div id="myProject" className="bg-white pb-4 pt-8 rounded-2xl">
       <div className="w-full  py-10">
         <div className="max-w-6xl mx-auto text-center mb-10">
           <h2 className="text-[28px] sm:text-[28px] lg:text-[28px] font-normal text-[#263040] relative inline-block group">

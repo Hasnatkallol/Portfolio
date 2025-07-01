@@ -5,7 +5,7 @@ const Navbar = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      setShow(window.scrollY > 100); // Show after 100px scroll
+      setShow(window.scrollY > 100); 
     };
 
     window.addEventListener("scroll", handleScroll);

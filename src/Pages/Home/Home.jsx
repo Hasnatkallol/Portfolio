@@ -8,6 +8,7 @@ import Contact from "../Contact/Contact";
 import Education from "../Education/Education";
 import Research from "../Research/Research";
 import Footer from "../Footer/Footer";
+import ScrollButton from "../../Components/ScrollButton";
 
 const Home = () => {
   return (
@@ -33,6 +34,7 @@ const Home = () => {
       <div id="contact">
         <Contact></Contact>
       </div>
+      <ScrollButton></ScrollButton>
       <Footer></Footer>
     </div>
   );
